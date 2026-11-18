@@ -29,6 +29,8 @@
         
     <h2>Student Management System</h2>
 
+    <h2>Edit studentlist</h2>
+
     <asp:Label ID="lblWelcome" runat="server"></asp:Label>
 
     <br /><br />
