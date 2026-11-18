@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\console app venu\\StudentManagementDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|s:\\console app venu\\studentmanagementdb\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|S:\\console app venu\\StudentManagementDB\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|S:\\console app venu\\StudentManagementDB\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|S:\\console app venu\\StudentManagementDB\\editstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|solutionrelative:editstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|S:\\console app venu\\StudentManagementDB\\addstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|solutionrelative:addstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|S:\\console app venu\\StudentManagementDB\\editstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|solutionrelative:editstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|S:\\console app venu\\StudentManagementDB\\addstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|solutionrelative:addstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|S:\\console app venu\\StudentManagementDB\\studentlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|solutionrelative:studentlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|S:\\console app venu\\StudentManagementDB\\studentlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B974E320-2FF6-4A67-BAD9-CC2287538BD6}|StudentManagementDB.csproj|solutionrelative:studentlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "S:\\console app venu\\StudentManagementDB\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "S:\\console app venu\\StudentManagementDB\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T09:05:37.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "S:\\console app venu\\StudentManagementDB\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "S:\\console app venu\\StudentManagementDB\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-17T09:00:01.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditStudent.aspx.cs",
+              "DocumentMoniker": "S:\\console app venu\\StudentManagementDB\\EditStudent.aspx.cs",
+              "RelativeDocumentMoniker": "EditStudent.aspx.cs",
+              "ToolTip": "S:\\console app venu\\StudentManagementDB\\EditStudent.aspx.cs",
+              "RelativeToolTip": "EditStudent.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T09:11:52.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditStudent.aspx",
+              "DocumentMoniker": "S:\\console app venu\\StudentManagementDB\\EditStudent.aspx",
+              "RelativeDocumentMoniker": "EditStudent.aspx",
+              "ToolTip": "S:\\console app venu\\StudentManagementDB\\EditStudent.aspx",
+              "RelativeToolTip": "EditStudent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-17T09:01:36.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentList.aspx.cs",
+              "DocumentMoniker": "S:\\console app venu\\StudentManagementDB\\StudentList.aspx.cs",
+              "RelativeDocumentMoniker": "StudentList.aspx.cs",
+              "ToolTip": "S:\\console app venu\\StudentManagementDB\\StudentList.aspx.cs",
+              "RelativeToolTip": "StudentList.aspx.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T09:07:33.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "S:\\console app venu\\StudentManagementDB\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "S:\\console app venu\\StudentManagementDB\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-17T08:57:23.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddStudent.aspx",
+              "DocumentMoniker": "S:\\console app venu\\StudentManagementDB\\AddStudent.aspx",
+              "RelativeDocumentMoniker": "AddStudent.aspx",
+              "ToolTip": "S:\\console app venu\\StudentManagementDB\\AddStudent.aspx",
+              "RelativeToolTip": "AddStudent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-17T09:01:01.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentList.aspx",
+              "DocumentMoniker": "S:\\console app venu\\StudentManagementDB\\StudentList.aspx",
+              "RelativeDocumentMoniker": "StudentList.aspx",
+              "ToolTip": "S:\\console app venu\\StudentManagementDB\\StudentList.aspx",
+              "RelativeToolTip": "StudentList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-17T09:00:36.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudent.aspx.cs",
+              "DocumentMoniker": "S:\\console app venu\\StudentManagementDB\\AddStudent.aspx.cs",
+              "RelativeDocumentMoniker": "AddStudent.aspx.cs",
+              "ToolTip": "S:\\console app venu\\StudentManagementDB\\AddStudent.aspx.cs",
+              "RelativeToolTip": "AddStudent.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T09:09:13.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
